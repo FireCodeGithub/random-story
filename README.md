@@ -7,8 +7,8 @@ Random Story is a simple story generator that creates... well, not-so-random sto
 ## Get started
 To use Random Story, follow these simple steps:
 
-Clone the repository :’git clone https://github.com/FireBallGithub/random-story.git’
-Install the requirements :’pip install -r requirements.txt’
+Clone the repository :`git clone https://github.com/FireBallGithub/random-story.git`
+Install the requirements :`pip install -r requirements.txt`
 Run the code.
 That's it! The generator will create a new story for you. You can run the code several times to generate different stories.
 
